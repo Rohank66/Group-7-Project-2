@@ -1,6 +1,17 @@
+# Group 7 Mist 4610 Group Project 1
 
-Team name and members:
-Include information about the name of the team based on the team name assigned to the team on ELC. Also include the names of all team members as well as links to their corresponding github repos that have the project on them.
+## Team Name: 
+Sp24_61608_Group 7
+
+## Team Members:
+
+1. Rohan Kothari [@Rohank66](https://github.com/Rohank66)
+2. Sedat Akgun [@sedatakgun](https://github.com/sedatakgun)
+3. Tharini R.K. [@tr64311](https://github.com/tr64311)
+4. Ruhi Shirke [@rushirke](https://github.com/rushirke)
+5. Rachel Kim [@rachelkim816](https://github.com/rachelkim816)
+6. Danielle LaDuca [@danijlad](https://github.com/danijlad)
+
 
 
 Describing your dataset and what data it contains:

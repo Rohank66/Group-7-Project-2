@@ -1,4 +1,4 @@
-# Group 7 Mist 4610 Group Project 1
+# Group 7 Mist 4610 Group Project 2
 
 ## Team Name: 
 Sp24_61608_Group 7

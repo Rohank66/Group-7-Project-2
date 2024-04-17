@@ -21,7 +21,8 @@ Our dataset captures data on mental health readmissions in New York State from 2
 
 Question Asked: How have mental health readmission coverage plans evolved over time between New York City and the rest of the state, particularly concerning readmission within 90 days?
 
-Importance??
+Importance:
+...
 
 
 <img width="1699" alt="Screenshot 2024-04-17 at 11 11 49 AM" src="https://github.com/Rohank66/Group-7-Project-2/assets/104539792/ae5ff652-43ac-452b-b0fd-69e975f261e0">
@@ -30,13 +31,24 @@ The first graph shows...
 
 <img width="1698" alt="Screenshot 2024-04-17 at 11 28 13 AM" src="https://github.com/Rohank66/Group-7-Project-2/assets/104539792/03b1fca4-23b1-431c-9c8b-fbeb2e149d0a">
 
+This second graph shows...
 
 ## Question 2:
+
+Question Asked: How does the mental health readmission rate differ by coverage type, and are there specific coverage types with significantly higher or lower rates?
+
+Importance: 
+
+This question is important because it highlights the differences in mental health readmission rates and enables the public to be aware of the coverage types that are most likely to have adults readmitted for mental health reasons. With this information, insurance plans may decide they need to allocate more mental health coverage plans and resources. 
 
 
 ![PNG image](https://github.com/Rohank66/Group-7-Project-2/assets/104539792/7a6d5743-d8c1-41d3-812a-f25b3d74beec)
 
+This graph shows:
 
+The heat map depicts the change in mental health readmission rates for each coverage type and highlights the change in rates per coverage type through a color gradient, with a darker hue denoting a higher rate and a lighter hue denoting a lower rate. Between 2015 and 2020, the statewide coverage rate decreased as the heat map shows a lighter color in 2020 in comparison to the color in 2015. 
+
+After creating the first heatmap to depict readmission rates in 2015, we decided to delve deeper into what the regional readmission rates would look like in 2020.  Between 2015 and 2020, the statewide coverage rate decreased as the heat map shows a lighter color in 2020 in comparison to the color in 2015. Here we also noticed that HARP-New York City, HARP, and HARP- REST OF STATE had significantly higher rates in 2020 compared to 2015 when it had virtually no usage. 
 
 
 

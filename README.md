@@ -28,7 +28,7 @@ Importance??
 
 The first graph shows...
 
-<img width="1699" alt="Screenshot 2024-04-17 at 11 24 08 AM" src="https://github.com/Rohank66/Group-7-Project-2/assets/104539792/670e28b2-f8b0-4cf3-8f23-8bdc27dd9261">
+<img width="1698" alt="Screenshot 2024-04-17 at 11 28 13 AM" src="https://github.com/Rohank66/Group-7-Project-2/assets/104539792/03b1fca4-23b1-431c-9c8b-fbeb2e149d0a">
 
 
 ## Question 2:

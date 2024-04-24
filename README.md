@@ -57,7 +57,7 @@ This phenomenon could be explained by the COVID-19 pandemic, which occurred in l
 
 ## Manupulations applied to the data set for analysis:
 
-We did not have to manipulate any data, but we did have to standardize the data set. A standardized data set focuses on transforming raw data into usable information before it's analyzed. Our data fits that description as we have quantifiable data that can be measured and adheres to the standard of being meaningful, interpretable data. Our data also has no duplicate data, irrelevant data, redundant data, inaccurate data, or low-quality data. We also have cleansed the data, ridding it of any incomplete, irrelevant, or inaccurate data. On top of all of this, we have formatted our data and it contains no 3rd party imports.
+For our project purposes, we did not need to manipulate any data. Our dataset gave us all the information needed to complete our models with having to manipulate or change any information from the dataset.
 
 ## Tableau packaged workbook
 

@@ -55,7 +55,13 @@ After creating the first heatmap to depict readmission rates in 2015, we decided
 This phenomenon could be explained by the COVID-19 pandemic, which occurred in late March 2020 and impacted the overall ability for members of the community to gain access to mental health resources in person. As a result, the readmission rate would have been reduced for the year. In 2015, we also noticed HARP-NEW YORK CITY and HARP-REST OF STATE were non-existent. Upon research, the time period between 2015 and 2020 was indicative of the trend in reducing the stigma associated with mental health and gaining resources to help with mental health. As a result, the coverage plans were introduced to include mental health resources and provide members of the community with access to the resources. In addition, the HARP plan existed in 2015, but to increase the usage of the plan and its health and wellness resources, the coverage plan was divided into three small subsections of NEW YORK CITY and REST OF STATE to encourage use of the resources. The data supports this and highlights the increase in the usage of the mental health resources. 
 
 
+## Manupulations applied to the data set for analysis:
 
+We did not have to manipulate any data, but we did have to standardize the data set. A standardized data set focuses on transforming raw data into usable information before it's analyzed. Our data fits that description as we have quantifiable data that can be measured and adheres to the standard of being meaningful, interpretable data. Our data also has no duplicate data, irrelevant data, redundant data, inaccurate data, or low-quality data. We also have cleansed the data, ridding it of any incomplete, irrelevant, or inaccurate data. On top of all of this, we have formatted our data and it contains no 3rd party imports.
+
+## Tableau packaged workbook
+
+The packaged workbook containing the visualizations shown above is attached to this repository.
 
 
 
